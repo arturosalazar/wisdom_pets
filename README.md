@@ -18,7 +18,7 @@ Contact Information and Location: Easy access to the clinic’s contact details 
 
 Return to Top Link: A convenient link at the bottom of each page allows users to easily navigate back to the top of the page.
 
-Technical Details
+## Technical Details
 
 Language: HTML with embedded JavaScript and CSS.
 Framework: Bootstrap for responsive design.
